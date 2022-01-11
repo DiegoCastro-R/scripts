@@ -10,4 +10,4 @@ echo "enter branch name":
 
 read branchname
 
-git push origin branchname 
+git push origin $branchname 
